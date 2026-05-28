@@ -1,8 +1,10 @@
 {
   "name": "spicets",
-  "module": "index.ts",
+  "main": "dist/index.js",
+  "version": "0.0.1",
   "type": "module",
-  "private": true,
+  "scripts": {
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
